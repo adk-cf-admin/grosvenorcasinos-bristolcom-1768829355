@@ -1,0 +1,197 @@
+{
+    "en-GB": {
+        "styles": {
+            "bg": "#1A1A1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1A1A1A",
+            "welcome-bonus-bg": "#1A1A1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#292929",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#00CD70",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#cc8100",
+            "yellow": "#00CD70",
+            "yellow-button": "#cc8100",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1A1A1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#4b4b4e",
+            "pay-back": "#deeadf",
+            "providers-back": "#1A1A1A",
+            "faq-label": "#1A1A1A",
+            "bg-footer": "#1A1A1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#00CD70",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Grosvenor Casino Bristol",
+            "title": "Grosvenor Casino Bristol: tables, slots, bonuses, events and entry rules",
+            "description": "A complete guide to Grosvenor Casino Bristol: popular games, betting guide ranges, bonus-style offers, entertainment, bar and relaxation. Learn about dress code, entry conditions, payments, how winnings are paid, plus what to expect from events and guest perks.",
+            "canonical": "grosvenorcasinos-bristol.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1847",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "grosvenorcasinos-bristol.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1848",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1849"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1850",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Grosvenor Casino Bristol Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Grosvenor Casino Bristol — games, bonuses, atmosphere and nightlife",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1851",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1852",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Big jackpots and frequent payouts",
+                "Slot bonuses for active play",
+                "Tournaments with strong prize pools",
+                "Wide choice of tables and limits",
+                "Professional dealers, fast service",
+                "Convenient location, easy access",
+                "Comfortable lounge and bar areas"
+            ],
+            "advantagesAfterText": "The venue blends a classic casino feel with modern comfort. It’s easy to tailor the night to your mood, from relaxed play to high-energy sessions. Regular guests can typically expect perks and personalised offers.",
+            "knowMore": "Know more",
+            "appTitle": "Grosvenor Casino Bristol App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1853",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Grosvenor Casino Bristol App",
+            "mobileGooglePlayImageTitle": "Grosvenor Casino Bristol App",
+            "mobileIosImageTitle": "Grosvenor Casino Bristol App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Grosvenor Casino Bristol",
+                "description1": "What sets it apart is the mix of live tables and a lively entertainment-led night under one roof. The atmosphere suits both newcomers and seasoned players, with plenty of reasons to return for recurring offers.",
+                "items": [
+                    "Jackpots up to £50,000.",
+                    "Match bonuses up to £100.",
+                    "Tournament wins to £5,000."
+                ],
+                "description2": "Grosvenor Casino Bristol is a night-out spot built around classic casino play and a modern vibe. Inside, you’ll typically find a blend of lively energy and traditional casino style. The game selection suits both steady, unhurried sessions and more fast-paced play. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1854",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "The layout is designed for comfort, making it easy to switch between playing and taking breaks. Live tables are usually run by professional dealers who keep the game flowing smoothly. If you prefer straightforward options, there are slots and electronic versions of popular games. The bar area adds a relaxed social layer to the experience. The venue often leans into themed nights and extra entertainment to round out the evening. Regular guests can generally expect perks and rewards. It’s a strong choice for a fun, organised night without unnecessary fuss."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Grosvenor Casino Bristol — stylish evening, games and atmosphere",
+                "description": "<p>\nGrosvenor Casino Bristol feels like a modern city casino with a recognisably classic core: warm lighting, well-spaced tables, and a sense of comfort even when the room is busy. The mood typically sits between a polished night out and an approachable, friendly venue where you don’t need to overthink it. Design choices often prioritise ease — comfortable seating, clear zoning, and enough space to avoid that cramped feeling. It works well for a quick stop-in or a full evening.\n<\/p>\n<br>\n\n\n<p>\nIn terms of opening hours, it’s the sort of place you can usually rely on late into the night rather than being tied to standard daytime schedules. Even if you’re not planning a long session, it’s easy to pop in for a drink or to watch the tables in action. Live tables are generally most active from afternoon into the evening as the venue’s energy builds. The rhythm can vary by day, with the busiest stretch typically landing in the evening and overnight. That creates a natural flow where the night can start calm and build into something more lively.\n<\/p>\n<br>\n<p>\nThe bar side in casinos like this often acts as the social hub — a place to meet, reset between games, and keep the night feeling smooth. Menus usually lean on reliable cocktails, classic spirits, non-alcoholic options, and easy-going bites that pair well with play. On some nights the bar area becomes the main attraction, with guests coming as much for the atmosphere as for the games. It’s convenient: you can switch from play to relaxation without leaving the venue.\n<\/p>\n<br>\n<p>\nAn on-site hotel is not typically the centrepiece of a city casino venue, but the location normally offers plenty of nearby accommodation choices. Many guests plan a stay close by so they can enjoy the evening without rushing the end. Front-of-house staff can often point out what visitors tend to choose and which areas feel easiest for getting around. That makes the overall trip more comfortable, especially if you’re finishing late.\n<\/p>\n<br>\n<p>\nEvents and entertainment are a big part of the experience, because modern casinos often operate as full evening destinations. Theme nights, game-led activities, and seasonal moments add variety and encourage return visits. You’ll commonly see formats involving hosts, draws, and extra prizes that heighten the sense of occasion. The entertainment angle is especially noticeable at weekends, when guests come for the vibe as much as the play.\n<\/p>\n<br>\n<p>\nBonus and loyalty-style programmes are usually built around rewarding active guests: the more consistently you play, the more tailored offers you can receive. These can include game-related incentives, event invitations, venue compliments, and improved conditions for regulars. It’s worth checking the rules and limits so you understand how benefits are earned and used. Over time the experience can feel more personalised, making it easier to plan nights around the options you enjoy most.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService, payment and receipt of winnings at Grosvenor Casino Bristol\n<\/h3>\n\n<p>\nStaff on the floor typically follow big-brand standards: front-of-house supports entry and basic rules, dealers keep tables running smoothly, and managers focus on comfort and safety. Communication is usually polite and practical — you’ll be directed to the right game areas, limits, and the key processes you need to know. Newer players are often given a simple overview so they feel confident. During peak evening hours things move faster, but the service structure stays consistent.\n<\/p>\n<br>\n\n\n<p>\nEnglish is the main language of service, and in busy city venues you’ll often find team members who speak additional languages. If a particular language matters to you, you can usually ask whether another colleague can assist. Core rules and paperwork are generally presented in a standard, easy-to-follow way. Bringing valid ID is wise, as checks are common practice.\n<\/p>\n<br>\n<p>\nPayments and currency typically follow standard expectations: cash is accepted in the primary local currency, and card use depends on banking rules and venue policies. Common options usually include debit cards, plus certain permitted electronic payment methods that align with responsible gambling requirements. Credit cards may be restricted for gambling-related transactions, so it helps to have a backup plan. For larger spending, many guests prefer a mix of card and cash.\n<\/p>\n<br>\n<p>\nATMs are often available on-site or very close by, making it easy to access cash when needed. Currency exchange within a casino can be limited or handled under specific procedures, so it’s best to arrive with what you need if exchange is important. Where exchange is available, conditions typically depend on the amount and the venue’s current process. For higher-value transactions, additional checks can apply — a standard part of financial compliance.\n<\/p>\n<br>\n<p>\nWinnings at a land-based casino are usually paid out on-site: smaller amounts are commonly settled in cash, while larger amounts follow cashier procedures and internal rules. In some cases, alternative payout routes may be offered if they fit policy and verification requirements. Significant wins can trigger extra identification requests and may take longer due to confirmations. That’s normal and helps protect both the guest and the venue.\n<\/p>\n<br>\n<p>\nTax treatment is generally handled on a broad principle: casinos don’t typically withhold tax automatically from ordinary player winnings, but individual circumstances can differ. If you have a specific tax status, treat play as a professional activity, or win a large sum, it’s sensible to check details with a qualified adviser. Rules and interpretations can change, so take a careful, well-documented approach for major wins. This keeps the post-win process clear and stress-free.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for visiting Grosvenor Casino Bristol — dress code, entrance and facilities\n<\/h3>\n\n<p>\nEntry is generally limited to adults, and you may be asked to show valid ID at the door. Arriving in a suitable condition matters, as guest safety and comfort are priorities. The dress code is commonly smart casual to keep the atmosphere polished. Very sporty, beach-style, or overly scruffy outfits are often discouraged, especially later in the evening. Inside, respectful conduct is expected; you shouldn’t disrupt other players or staff. Photography in gaming areas is often restricted to protect privacy. Smoking is typically limited to designated areas or not permitted indoors at all. If rules are breached, staff may ask you to stop or to leave. For group visits, planning ahead helps ensure a smooth experience. Getting there is usually easy by public transport or taxi, while drivers should consider nearby paid parking options. Peak hours can mean a short wait at entry and cloakroom areas. Before playing, it’s sensible to confirm table rules and betting limits.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDress code\n<\/h4>\n\n <ul>\n            <li>• \nSmart casual is the safest choice\n<\/li>\n            <li>• \nNeat footwear and tidy appearance\n<\/li>\n            <li>• \nAvoid beachwear and dirty sports kit\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntry conditions\n<\/h4>\n\n <ul>\n            <li>• \nAdults only (18+)\n<\/li>\n            <li>• \nID checks when required\n<\/li>\n            <li>• \nOn-the-spot guest registration may apply\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited behaviour \/ restrictions\n<\/h4>\n\n <ul>\n            <li>• \nPhoto\/video in gaming areas subject to house rules\n<\/li>\n            <li>• \nAggression and dealer disputes are not acceptable\n<\/li>\n            <li>• \nNo coaching, signalling, or interference with play\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParking and getting there\n<\/h4>\n\n <ul>\n            <li>• \nEasy by taxi and public transport\n<\/li>\n            <li>• \nPaid car parks are usually nearby\n<\/li>\n            <li>• \nArrive earlier in the evening\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGrosvenor Loyalty Program — Levels, Points, and Privileges\n<\/h3>\n\n<p>\nA casino loyalty programme is typically designed to reward repeat guests and make regular visits feel better value. The idea is straightforward: you sign up, then earn points or status credits through play at tables and slots. The more consistently you visit, the more benefits usually become available. Beyond baseline rewards, you’ll often see personalised offers shaped around your preferences. Earning rates can differ by game type and limits, and rewards may come with expiry dates and usage rules. Status tiers commonly unlock improved value, such as faster earning and invitations to special events. Regulars often appreciate comfort-led perks like priority service, venue compliments, and tailored conditions. Responsible gambling tools are also commonly built in, including limits, reminders, and self-exclusion options. To get the most out of it, it helps to check current promotions and earning rules. Below is a typical structure used in venues of this style to explain how the system usually works.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n<\/h4>\n\n <ul>\n            <li>• \nAge and ID: 18+, identity verification during sign-up\n<\/li>\n            <li>• \nContact details: phone number or email for updates\n<\/li>\n            <li>• \nConsents: acceptance of terms and responsible gambling policies\n<\/li>\n            <li>• \nCard\/account: a membership card or digital profile\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n<\/h4>\n\n <ul>\n            <li>• \nClassic — entry level after joining; points earning enabled\n<\/li>\n            <li>• \nSilver — from 1,000 status credits in 90 days; +10% earn boost\n<\/li>\n            <li>• \nGold — from 3,000 credits in 90 days; +25% earn boost and event priority\n<\/li>\n            <li>• \nPlatinum — from 7,500 credits in 90 days; +40% earn boost and VIP-style invites\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses and perks\n<\/h4>\n\n <ul>\n            <li>• \nPlay credit: £10–£25 in game vouchers after hitting monthly activity targets\n<\/li>\n            <li>• \nCashback week: 5% back (up to £50) on qualifying slot sessions\n<\/li>\n            <li>• \nTournament tickets: £10–£30 entry value, earned via weekly objectives\n<\/li>\n            <li>• \nVenue compliments: drink or snack up to £15 at higher tiers\n<\/li>\n\t    <li>• \nAccelerated earning: +10% \/ +25% \/ +40% points by tier\n<\/li>\n\t    <li>• \nBirthday treat: reward pack up to £20 in vouchers or chips (cashier rules apply)\n<\/li>\n\t    <li>• \nPriority service: faster support at peak times via dedicated help points\n<\/li>\n        <\/ul><br>\n\n\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Grosvenor Casino Bristol",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and special offers at Grosvenor Casino Bristol — games, events, seasons\n<\/h3>\n\n<p>\nBeyond the loyalty scheme, casinos often run separate offers that make a visit feel more eventful and potentially better value. These promotions are commonly tied to specific weekdays, time windows, or featured games. Game-led promos can include prize draws, extra payouts, tournament activity, and small “boost” rewards. Slot-focused deals are especially common because they pair naturally with daily tasks and timed draws. Table game nights can spotlight roulette, blackjack, or poker with themed hosting and added incentives. Seasonal campaigns are another major category, bringing themed décor, hosts, and prize-led moments around key calendar periods. You may also see “play + bar” style bundles that add a drink or discount when you meet evening conditions. Nearly all promos come with limits, timeframes, and minimum activity rules. Eligibility can also depend on game type and stake level, so it’s worth checking the details on arrival. Below are example formats and figures commonly used in this style of promotion.\n<\/p>\n<br>\n\n <ul>\n            <li>• \nWelcome play voucher: £10–£20 for a first session when signing up on-site\n<\/li>\n            <li>• \nSlot happy hours: +20% bonus credit up to £30 during set hours\n<\/li>\n            <li>• \nDaily prize draw: £50–£500 prizes for qualifying guests each day\n<\/li>\n            <li>• \nSlots tournament: £1,000–£3,000 prize pool, £10–£25 entry\n<\/li>\n\t    <li>• \nPoker series: £2,000–£10,000 guaranteed pool on selected nights\n<\/li>\n\t    <li>• \nBlackjack hit bonus: £25–£100 fixed payout for rare combos (promo rules apply)\n<\/li>\n\t    <li>• \nRoulette night: £5–£15 extra chips with selected buy-ins\n<\/li>\n\t    <li>• \n“Play + cocktail” bundle: drink compliment up to £12 on qualifying nights\n<\/li>\n\t    <li>• \nSeasonal VIP draw: top prize up to £2,000 during holiday periods\n<\/li>\n\t    <li>• \nFriends nights: £5–£10 voucher for group visits (restrictions apply)\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games at Grosvenor Casino Bristol — from classics to modern formats\n<\/h3>\n\n<p>\nA venue like this typically balances live dealer tables with slots, making it easy to choose your pace and play style. If you enjoy atmosphere, live tables tend to deliver the ritual, social energy, and the feel of a “proper” casino session. For quick decisions and short bursts, many guests go for slots because there’s no waiting for a seat and budgets are flexible. Poker stands out for its strategic and psychological layers, where decisions matter as much as luck. Roulette remains a signature choice thanks to straightforward rules and a wide range of bet types. Blackjack appeals to players who like making choices and thinking in probabilities. Baccarat is often associated with calm, clean gameplay and fast rounds. Electronic tables suit those who want familiar rules with a quicker rhythm. You may also come across variations and mini-formats for trying something different. Below is a concise overview of the most popular options.\n<\/p>\n<br>\n<ul>\n            <li>• \nRoulette — classic bets, pace, and spectacle\n<\/li>\n            <li>• \nBlackjack — player decisions matter, simple maths\n<\/li>\n            <li>• \nPoker (tournament\/cash) — strategy, opponents, multiple formats\n<\/li>\n            <li>• \nBaccarat — fast rounds and minimal bet structure\n<\/li>\n\t    <li>• \nSlots — themed variety, bonus rounds, progressive jackpots\n<\/li>\n\t    <li>• \nElectronic roulette — faster flow, newcomer-friendly\n<\/li>\n\t    <li>• \nElectronic blackjack — same core idea, less waiting\n<\/li>\n\t    <li>• \nLive variations — side bets and rule twists (table dependent)\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and maximum bets at Grosvenor Casino Bristol\n<\/h3>\n\n<p> \nBetting ranges in a casino typically depend on the specific table, the time of day, and how busy the floor is. Some limits are newcomer-friendly, while others are aimed at higher-stake play. Below are practical guide figures that are commonly seen in venues of this style. Always confirm the exact limits with the dealer or floor team before you sit down.\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#00CD70; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (live table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (live table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£2,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker cash (blinds)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£1\/£2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> £5\/£10<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker tournament (buy-in)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£200<\/td>\n                <\/tr>\n\n\n             <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£100<\/td>\n                <\/tr>\n             <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots (per spin)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£5<\/td>\n                <\/tr>\n             <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Table side bets<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£50<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and entertainment at Grosvenor Casino Bristol — evening format and night energy\n<\/h3>\n\n<p>\nA casino like this often operates as a full evening destination where gaming is only part of the storyline. The mood can shift across the week: midweek tends to suit calmer sessions and bar-led social time, while weekends bring more energy and a louder night-out feel. Themed nights appear from time to time, spotlighting certain games with hosts, draws, and a more celebratory setup. That approach keeps the experience fresh and encourages repeat visits.\n<\/p>\n<br>\n\n\n<p>\nA key strand is regular poker activity and tournament-style formats. Tournaments and mini-series add competition and build a sense of community, where familiar faces return for “their” game. Alongside poker, table-game nights may run with promo mechanics or added prize moments. For many guests, that dependable schedule is what makes planning a visit worthwhile.\n<\/p>\n<br>\n<p>\nOff-table entertainment is often built around the bar, music, and late-night timing. The night can start with cocktails and conversation, then shift into a more night-time rhythm as the floor gets busier. On selected evenings, a DJ or music-led ambience can lift the lounge areas so the venue doesn’t feel purely table-focused. Even without a standalone nightclub, lighting, music, and crowd energy can create a club-adjacent vibe.\n<\/p>\n<br>\n<p>\nSeasonal moments typically amplify the experience: holidays, sporting occasions, and calendar milestones become reasons for special programming. Prize draws, gift-style promos, and themed menus are commonly used to make the night stand out. Groups may also be accommodated with pre-arranged visit formats for celebrations or corporate socials. The end result is a varied night where you can switch between play, drinks, and atmosphere.\n<\/p>\n<br>\n\n <ul>\n            <li>• \nThemed gaming nights — host-led moments, draws, special rules\n<\/li>\n            <li>• \nPoker tournaments — regular events with buy-ins and prizes\n<\/li>\n            <li>• \nPoker series — multi-day formats with a league-like feel\n<\/li>\n            <li>• \nBar-led evenings — cocktail offers, easy music, social pace\n<\/li>\n\t    <li>• \nDJ sets \/ music nights — late-night ambience in lounge areas\n<\/li>\n\t    <li>• \nSeasonal events — themed décor, menus, and prize moments\n<\/li>\n\t    <li>• \nGroup visit formats — pre-arranged nights for parties and socials\n<\/li>\n\t    <li>• \nSport viewing (where available) — broadcasts with a lounge rhythm\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, restaurants and relaxation at Grosvenor Casino Bristol — how the evening is arranged\n<\/h3>\n\n<p>\nThe bar and lounge side of a casino is usually designed so the night isn’t only about staking. You can start with a drink, take a reset between sessions, share the moment with friends, then return to play at your own pace. Cocktail menus tend to focus on dependable classics alongside popular mixes, with non-alcoholic choices available too. That makes it easy for groups where gaming is only part of the plan.\n<\/p>\n<br>\n\n\n<p>\nFood in venues like this is often built around comfort and convenience: options that suit different tastes without dragging the evening into a long sit-down unless you want it. You’ll commonly find snacks, hot dishes, and quicker choices so you can eat without losing the flow of the night. Later hours often lean into “night food” — satisfying, straightforward plates that pair well with a social atmosphere. Service aims to keep the standard aligned with a casino-style night out.\n<\/p>\n<br>\n<p>\nWhen it comes to hotels, a city casino is typically the centre of an evening route rather than a place with accommodation built in. Guests usually choose nearby stays so they can end the night without rushing. Around the venue you’ll generally find multiple categories of accommodation, making it simple to combine the visit with dinner or other plans. For special occasions, booking a close-by stay and sorting late-night transport in advance can make the whole experience feel seamless.\n<\/p>\n<br>\n<p>\nRest inside the venue is about mixing play with pauses: watching the action, chatting, dipping back into slots or tables, and changing pace as the night evolves. Groups often value relaxed seating where they can gather without disturbing other guests. The better you shape the evening — drinks, play, food, and calm intervals — the more complete the night feels. In that sense, the casino becomes a cohesive outing rather than a single-purpose stop.\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nBar — cocktails, classic drinks, social focus\n<\/li>\n            <li>• \nLounge seating — breaks between sessions, comfortable waiting\n<\/li>\n            <li>• \nRestaurant \/ kitchen area — hot dishes and evening-friendly options\n<\/li>\n            <li>• \nQuick bites — fast refuel without interrupting the night\n<\/li>\n\t    <li>• \nNearby hotels — close-by stays for an easy finish\n<\/li>\n        <\/ul><br>\n\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Is the venue accessible for guests with reduced mobility?",
+                    "answer": "Venues of this type generally aim to support accessibility, with practical entrances and staff assistance. You can request help on arrival."
+                },
+                {
+                    "title": "Are there time limits on how long I can stay?",
+                    "answer": "Hard limits are uncommon, but the venue can refuse service if rules or safety requirements are breached. Responsible play is also expected."
+                },
+                {
+                    "title": "Can I set limits to control my play?",
+                    "answer": "Yes, responsible gambling tools are typically available, including limits and self-exclusion options. Staff can explain how to set these up."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1855",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Grosvenor Casino Bristol"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-GB",
+            "name": "Английский",
+            "isDefault": true
+        }
+    ]
+}
